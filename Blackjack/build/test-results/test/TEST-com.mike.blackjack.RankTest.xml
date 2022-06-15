@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.mike.blackjack.RankTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-15T00:19:03" hostname="LAPTOP-HO7HFSBK" time="0.022">
-  <properties/>
-  <testcase name="getValueOfKing()" classname="com.mike.blackjack.RankTest" time="0.022"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
