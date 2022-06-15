@@ -38,10 +38,8 @@ public class Card {
     }
 
     public int getValue() {
-        return switch(this.rank){
-            case JACK, QUEEN, KING -> 10;
-            default -> this.rank.ordinal() + 1;
-        };
+        return this.rank.getValue();
+
 
     }
 }
